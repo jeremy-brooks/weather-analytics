@@ -1,5 +1,5 @@
 app.factory('indexConfigLoader', ['$http', function ($http) {
-    return $http.get('http://localhost:63342/weather-analytics/data/home.json')
+    return $http.get('/weather-analytics/data/home.json')
         .success(function (data) {
             return data;
         })
