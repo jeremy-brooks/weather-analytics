@@ -1,0 +1,24 @@
+.compareTool .viewArea {
+    border: solid 1px;
+    height: 400px;
+}
+
+.compareTool .thumbs {
+    border: solid 1px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.compareTool .thumb {
+    width: 12em;
+    height: 12em;
+    max-width: 12em;
+    max-height: 12em;
+    display: inline-block;
+    padding: 5px;
+}
+
+.compareTool .thumbs img {
+    height: 100%;
+    cursor: move;
+}

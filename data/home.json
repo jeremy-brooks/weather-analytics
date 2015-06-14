@@ -1,0 +1,27 @@
+{
+  "pageTitle": "Ann's weather data",
+  "me": "images/ann.jpg",
+  "pageDescription": "These pages show a collection of monitoring data for tropical regions around the world.",
+  "overviewTitle": "My daily overview:",
+  "tropicalWeatherOverview": "The current ELNINO is strengthening...",
+  "sections": [
+    {
+      "title": "MJO",
+      "description": "Collection of monitoring data.",
+      "link": "http://localhost:63342/weather-analytics/index.html#/mjo",
+      "icon": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+    },
+    {
+      "title": "ENSO",
+      "description": "Collection of monitoring data.",
+      "link": "https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ENSO",
+      "icon": "http://www.goes-r.gov/users/comet/tropical/textbook_2nd_edition/media/graphics/61052_rh.jpg"
+    },
+    {
+      "title": "Monsoons",
+      "description": "Collection of monitoring data.",
+      "link": "https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=monsoons",
+      "icon": "http://www.goes-r.gov/users/comet/tropical/textbook_2nd_edition/media/graphics/61052_rh.jpg"
+    }
+  ]
+}

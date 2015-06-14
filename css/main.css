@@ -1,0 +1,7 @@
+/* main app css file */
+@import "compare.css";
+@import "mjo.css";
+
+.page-header img {
+    max-width: 8em;
+}
