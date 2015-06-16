@@ -1,5 +1,5 @@
 app.factory('mjoPlotsLoader', ['$http', function ($http) {
-    return $http.get('http://localhost:63342/weather-analytics/data/mjoPlots.json')
+    return $http.get('/ann/weather-analytics/data/mjoPlots.json')
         .success(function (data) {
             return data;
         })
