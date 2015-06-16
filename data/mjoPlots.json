@@ -1,28 +1,49 @@
 {
   "plots": [
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/hov.last6mths.MJO.EQ.gif"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR/ts.html"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/hov.last6mths.MJO.N.gif"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/hov.last6mths.MJO.WEQ.gif"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/f.5.MJO.html"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/f.3.n1ER.html"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/f.1.kelvin.html"
     },
     {
-      "link": "http://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/UKME_phase_23m_full.gif"
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/f.1.mrg.html"
+    },
+    {
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR_modes/JA.all.20to10.html"
+    },
+    {
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/OLR/m.lm.html"
+    },
+    {
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/NCEP+NCEPop/hov.last6m.a+t.EQ.u850.gif"
+    },
+    {
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/NCEP+NCEPop/hov.last6m.a+t.EQ.u200.gif"
+    },
+    {
+      "link": "http://cawcr.gov.au/staff/mwheeler/maproom/RMM/composites/index.htm"
+    },
+    {
+      "link": "http://www.cpc.noaa.gov/products/precip/CWlink/MJO/CLIVAR/clivar_wh.shtml"
+    },
+    {
+      "link": "http://www.apcc21.org/eng/service/bsiso/fore/japcc030601.jsp#"
     }
   ]
 }
