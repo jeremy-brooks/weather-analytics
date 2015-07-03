@@ -1,0 +1,31 @@
+{
+  "name": "ann",
+  "version": "1.0.0",
+  "description": "Weather analytics concentrating on the tropics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-brooks/weather-analytics.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Jeremy Brooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremy-brooks/weather-analytics/issues"
+  },
+  "homepage": "https://github.com/jeremy-brooks/weather-analytics#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "angular": "^1.4.1",
+    "angular-route": "^1.4.1",
+    "bootstrap": "^3.3.5",
+    "jquery": "^1.9.1"
+  }
+}
